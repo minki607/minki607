@@ -14,8 +14,8 @@
 
 - 🍀 I'm familiar with the following **UI framework** 
 
-  [![Node Badge](https://img.shields.io/badge/Semantic_UI-35BDB2?style=flat-square&logo=Semantic-UI-React&logoColor=white&link=https://github.com/TEAM-SUITS/Suits)](https://github.com/TEAM-SUITS/Suits)[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white&link=https://github.com/minki607/Voluntia)](https://github.com/minki607/Voluntia)[![Material Badge](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=Material-UI&logoColor=white&link=https://github.com/minki607/Trandoo)](https://github.com/minki607/Trandoo)
- ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+  ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white&link=https://github.com/minki607/MOA-Admin)
+  [![Semantic Badge](https://img.shields.io/badge/Semantic_UI-35BDB2?style=flat-square&logo=Semantic-UI-React&logoColor=white&link=https://github.com/TEAM-SUITS/Suits)](https://github.com/TEAM-SUITS/Suits)[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white&link=https://github.com/minki607/Voluntia)](https://github.com/minki607/Voluntia)[![Material Badge](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=Material-UI&logoColor=white&link=https://github.com/minki607/Trandoo)](https://github.com/minki607/Trandoo)
 
 - ✏️ I use the following tools for **collaboration**
 
@@ -23,9 +23,9 @@
 
 - 🌱 I’m currently learning 
 
-  [![Typescript Badge](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white&link=https://github.com/minki607/typescript-exercise)](https://github.com/minki607/typescript-exercise)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white&link=https://github.com/minki607/next-js-practice)
+[![Typescript Badge](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white&link=https://github.com/minki607/typescript-exercise)](https://github.com/minki607/typescript-exercise)
 <!--
 **minki607/minki607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
