@@ -15,6 +15,7 @@
 - 🍀 I'm familiar with the following **UI framework** 
 
   [![Node Badge](https://img.shields.io/badge/Semantic_UI-35BDB2?style=flat-square&logo=Semantic-UI-React&logoColor=white&link=https://github.com/TEAM-SUITS/Suits)](https://github.com/TEAM-SUITS/Suits)[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white&link=https://github.com/minki607/Voluntia)](https://github.com/minki607/Voluntia)[![Material Badge](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=Material-UI&logoColor=white&link=https://github.com/minki607/Trandoo)](https://github.com/minki607/Trandoo)
+ ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
 - ✏️ I use the following tools for **collaboration**
 
