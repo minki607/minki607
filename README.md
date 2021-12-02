@@ -23,7 +23,8 @@
 - 🌱 I’m currently learning 
 
   [![Typescript Badge](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white&link=https://github.com/minki607/typescript-exercise)](https://github.com/minki607/typescript-exercise)
-
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 <!--
 **minki607/minki607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
